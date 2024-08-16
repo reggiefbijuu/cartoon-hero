@@ -1,3 +1,14 @@
-<h1>Whats Up!, Im the heading<h1>
-<P>Hey. I'm a paragraph element. Sup Gang!</P>
-<a href="https://google.com">Click me! I'm a link!</a>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test Page</title>
+</head>
+<body>
+	<h1>Whats Up!, Im the heading</h1>
+	<p>Sup, I'm a <b>paragraph.</b> Hey Gang!</p>
+	<a href="https://google.com" target="_blank" title="Let's go to google!">Click me! I'm the link!</a>
+	<p>My name is:<br>
+	Mr. Fuzz</p>
+	<img src="img/https://www.nylabone.com/-/media/project/oneweb/nylabone/images/dog101/10-intelligent-dog-breeds/golden-retriever-tongue-out.jpg">
+</body>
+</html>
